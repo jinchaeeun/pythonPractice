@@ -43,3 +43,7 @@
 # a, b = 0,0
 # a += 1
 # b += 1
+
+
+# Boolean은 True, False 대문자 주의
+# !True 불가. not True로 써야함
